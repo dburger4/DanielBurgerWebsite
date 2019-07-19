@@ -1,0 +1,15 @@
+#test {
+    background-color:#2b3e5c;
+}
+
+#welcome-box {
+    max-width: 900px;
+    background-color: white;
+}
+
+#dan_bus_prof {
+    max-width: 400px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
