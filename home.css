@@ -1,15 +1,15 @@
-#test {
-    background-color:#2b3e5c;
-}
-
 #welcome-box {
-    max-width: 900px;
-    background-color: white;
+    /*max-width: 900px;*/
+    background-color: red;
 }
 
 #dan_bus_prof {
-    max-width: 400px;
+    max-width: 500px;
     display: block;
     margin-left: auto;
     margin-right: auto;
+}
+
+#courses {
+    
 }
