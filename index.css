@@ -1,8 +1,3 @@
-#welcome-box {
-    /*max-width: 900px;*/
-    background-color: red;
-}
-
 #dan_bus_prof {
     display: block;
     width: 100%;
@@ -11,6 +6,6 @@
     margin-right: auto;
 }
 
-#courses {
-    
+#welcome {
+    padding-top: 10px;
 }
