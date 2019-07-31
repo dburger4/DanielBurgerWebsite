@@ -1,3 +1,8 @@
+#wip {
+    color: red;
+    text-align: center;
+}
+
 #dan_bus_prof {
     display: block;
     width: 100%;
@@ -6,6 +11,19 @@
     margin-right: auto;
 }
 
-#welcome {
-    padding-top: 10px;
+#welcome_title {
+    margin-top: 10px;
+}
+
+#courses {
+    margin-top: 20px;
+}
+
+#welcome_box {
+    width: 100%;
+    padding: 20px;
+}
+
+.panel-group {
+    margin-left: 15px;
 }
