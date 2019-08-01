@@ -44,3 +44,9 @@
 #design {
     margin-top: 40px;
 }
+
+#docker_proj , #crazy_monkey_proj {
+    background-color: lightblue;
+    height: 250px;
+    margin-top: 15px;
+}
