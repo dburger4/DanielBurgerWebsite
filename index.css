@@ -47,6 +47,12 @@
 
 #docker_proj , #crazy_monkey_proj {
     background-color: lightblue;
-    height: 250px;
+    
     margin-top: 15px;
+}
+
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+    
 }
